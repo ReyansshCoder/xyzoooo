@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    color: crimson;
+}
+.heading{
+    width: 100%;
+    font-size: 20px;
+
+}
+#camera,#result{
+border: 5px solid greenyellow ;
+width: 350px;
+height: 300px;
+}
